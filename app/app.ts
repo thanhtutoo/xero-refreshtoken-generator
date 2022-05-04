@@ -93,7 +93,7 @@ app.get('/organisation', async (req: Request, res: Response) => {
 	}
 });
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 9004;
 
 app.listen(PORT, () => {
 	console.log(`App listening on port ${PORT}`);
