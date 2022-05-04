@@ -28,3 +28,6 @@ REDIRECT_URI=...
 npm install
 npm run dev
 ```
+
+In the url, https://acd7-124-66-134-186.ngrok.io/?code=ce46895670e6ce4e7bb5d28fbe65c70e77eff4dac762a790c8cd60450915fd9d&scope=openid%20profile%20email%20accounting.settings%20accounting.reports.read%20accounting.journals.read%20accounting.contacts%20accounting.attachments%20accounting.transactions%20offline_access&session_state=92LxrEwSm395VvWoCOk4owjBb--4wDmoS-8icmNZqZw.e19f940bacbc5ef0acfddadfaad7c778
+code=bla bla bla is the refresh token
